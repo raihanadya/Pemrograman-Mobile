@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ellen",
+    "lastName": "Romaguera",
+    "gender": "female",
+    "address": "56893 Langworth Viaduct",
+    "city": "Lake Emely",
+    "phone": "501-763-439",
+    "email": "Moises48@gmail.com",
+    "status": "Offline",
+    "createdDate": "2020-01-01T09:09:00.000",
+    "image": "https://iili.io/JsAA7Qj.png"
+  },
+  {
+    "id": 2,
+    "firstName": "Emilio",
+    "lastName": "Thiel",
+    "gender": "male",
+    "address": "944 Claudie Lake",
+    "city": "Kautzerburgh",
+    "phone": "501-217-949",
+    "email": "Della.Altenwerth@yahoo.com",
+    "status": "Available",
+    "createdDate": "2020-01-01T09:10:00.000",
+    "image": "https://iili.io/JsAOQyX.png"
+  },
+  {
+    "id": 3,
+    "firstName": "Vivianne",
+    "lastName": "Willms",
+    "gender": "female",
+    "address": "7713 Keaton Fork",
+    "city": "Bashirianshire",
+    "phone": "501-996-718",
+    "email": "Cyrus.Robel37@gmail.com",
+    "status": "Available",
+    "createdDate": "2020-01-01T09:11:00.000",
+    "image": "https://iili.io/JsAkhdB.png"
+  },
+  {
+    "id": 4,
+    "firstName": "Remington",
+    "lastName": "Block",
+    "gender": "female",
+    "address": "0627 Velma Way",
+    "city": "West Orphaside",
+    "phone": "501-534-317",
+    "email": "Elliott27@hotmail.com",
+    "status": "Do not disturb",
+    "createdDate": "2020-01-01T09:12:00.000",
+    "image": "https://iili.io/JsAvJp9.png"
+  },
+  {
+    "id": 5,
+    "firstName": "Darrion",
+    "lastName": "Kirlin",
+    "gender": "female",
+    "address": "871 Wehner Street",
+    "city": "Abbottworth",
+    "phone": "501-652-477",
+    "email": "Lonnie4@gmail.com",
+    "status": "Do not disturb",
+    "createdDate": "2020-01-01T09:13:00.000",
+    "image": "https://iili.io/JsA8GSV.png"
+  }
+]
