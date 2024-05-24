@@ -1,0 +1,69 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "firstName": "Yasmine",
+      "lastName": "Donnelly",
+      "gender": "male",
+      "address": "794 Rudy Loaf",
+      "city": "New Jocelynport",
+      "phone": "501-561-240",
+      "email": "Americo_Kreiger5@hotmail.com",
+      "status": "Busy",
+      "createdDate": "2020-01-01T09:09:00.000",
+      "image": "https://iili.io/JsAvQyP.png"
+    },
+    {
+      "id": 2,
+      "firstName": "Charlie",
+      "lastName": "Padberg",
+      "gender": "male",
+      "address": "43071 Lurline Grove",
+      "city": "Laredo",
+      "phone": "501-438-301",
+      "email": "Leopold_Johnston51@yahoo.com",
+      "status": "Offline",
+      "createdDate": "2020-01-01T09:10:00.000",
+      "image": "https://iili.io/JsvalBR.png"
+    },
+    {
+      "id": 3,
+      "firstName": "Chad",
+      "lastName": "Stamm",
+      "gender": "female",
+      "address": "31166 Effertz Well",
+      "city": "Fort Dion",
+      "phone": "501-046-280",
+      "email": "Nasir.Effertz44@hotmail.com",
+      "status": "Do not disturb",
+      "createdDate": "2020-01-01T09:11:00.000",
+      "image": "https://iili.io/JsvcNAF.png"
+    },
+    {
+      "id": 4,
+      "firstName": "Xander",
+      "lastName": "Klein",
+      "gender": "female",
+      "address": "2973 Elta Trace",
+      "city": "East Irma",
+      "phone": "501-165-749",
+      "email": "Vivianne98@hotmail.com",
+      "status": "Available",
+      "createdDate": "2020-01-01T09:12:00.000",
+      "image": "https://iili.io/JsvlHH7.png"
+    },
+    {
+      "id": 5,
+      "firstName": "Krystina",
+      "lastName": "Wolff",
+      "gender": "male",
+      "address": "4214 Franey Drive",
+      "city": "Revere",
+      "phone": "501-106-759",
+      "email": "Virgie.Hoeger27@hotmail.com",
+      "status": "Busy",
+      "createdDate": "2020-01-01T09:13:00.000",
+      "image": "https://iili.io/JsASSqb.png"
+    }
+  ]
+}
